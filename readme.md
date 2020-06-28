@@ -22,6 +22,8 @@
 Hariharank12 iterm console commands
 - docker build -t hariharank12/hello-world-rest-api:manual1 .
 - docker run -p 8080:8080 hariharank12/hello-world-rest-api:manual1
+- docker push hariharank12/hello-world-rest-api:manual1
+- docker pull hariharank12/hello-world-rest-api:manual1
 
 ### Running the Application
 
